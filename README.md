@@ -35,4 +35,5 @@ El trabajo se centra principalmente en el uso de **web scraping con Selenium**, 
   https://datosmacro.expansion.com/estado/gasto/educacion
 
 - **Our World in Data** – Research and Development Expenditure (% GDP)  
-  https://ourworldindata.org/grapher/research-spending-gdp
+  - https://ourworldindata.org/grapher/research-spending-gdp
+  - https://ourworldindata.org/grapher/research-spending-gdp.csv (enlace directo al CSV recuperado)
